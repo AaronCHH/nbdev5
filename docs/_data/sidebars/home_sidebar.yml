@@ -13,14 +13,14 @@ entries:
       title: module name here
       url: core.html
     - output: web,pdf
-      title: Page1
-      url: Page01.html
-    - output: web,pdf
       title: Page2
       url: Page2.html
     - output: web,pdf
       title: Page3
       url: Page3.html
+    - output: web,pdf
+      title: Page1
+      url: Page01.html
     output: web
     title: nbdev5
   output: web
